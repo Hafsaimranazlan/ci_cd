@@ -8,6 +8,6 @@ jobs:
 
     steps:
       - name : hello
-        run : echo "helo world "
+        run : echo "helo world this is my last test"
 
 
